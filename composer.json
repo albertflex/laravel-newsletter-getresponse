@@ -19,7 +19,7 @@
     "require": {
         "php" : "^5.5|^7.2",
         "illuminate/support": "^5.8",
-        "getresponse/getresponse": "^3.0"
+        "getresponse/getresponse": "^0.0.2"
     },
     "require-dev": {
         "phpunit/phpunit" : "^4.8",
